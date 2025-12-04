@@ -45,7 +45,7 @@ LET'S CONNECT:
 
 ..Thank you for Visiting my GitHub-feel free to explore my project and reach out!..
 
-.Email:-Lhadex35@gmail.com
+.Email:-lhadex35@gmail.com
 
 
 
