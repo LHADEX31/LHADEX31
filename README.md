@@ -43,7 +43,7 @@ LET'S CONNECT:
 .I'm open to collaborations, data roles and anlytical projects.
 
 
-..Thank you for Visiting my Github-feel free to explore my project and reach out!..
+..Thank you for Visiting my GitHub-feel free to explore my project and reach out!..
 
 .Email:-Lhadex35@gmail.com
 
