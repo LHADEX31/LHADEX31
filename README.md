@@ -1,7 +1,7 @@
 HI, 
-I"m Ademola Temilade
+I"M ADEMOLA TEMILADE
 
-Data Analyst| Excel | Power BI |SQL |Tableau
+DATA ANALYST| EXCEL | POWER BI |SQL |TABLEAU
 
 ABOUT ME
 
