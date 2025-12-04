@@ -5,7 +5,7 @@ DATA ANALYST| EXCEL | POWER BI |SQL |TABLEAU
 
 ABOUT ME
 
-I'm a passionate Data Analyst who transforms raw data into meaningful insight that drive decision-making.I enjoy exploring data,building interactive dashboards,discovering patterns,and presenting insights in a clear, actionable way.with strong analytical skills and experience using industry-standard tools,i focus on helping businesses to improve performannce and understand trends throughdata.
+I'm a passionate Data Analyst who transforms raw data into meaningful insight that drive decision-making.I enjoy exploring data,building interactive dashboards,discovering patterns,and presenting insights in a clear actionable way with strong analytical skills and experience using industry-standard tools,I focus on helping businesses to improve performannce and understand trends throughdata.
 I am continuously learning, improving and building real-world data projects to sharpen my skills and deliver value.
 
 TOOLS AND TECHNOLOGIES:
