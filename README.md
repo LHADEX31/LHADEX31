@@ -8,6 +8,7 @@ ABOUT ME
 I'm a passionate Data Analyst who transforms raw data into meaningful insight that drive decision-making.I enjoy exploring data,building interactive dashboards,discovering patterns,and presenting insights in a clear actionable way with strong analytical skills and experience using industry-standard tools,I focus on helping businesses to improve performannce and understand trends throughdata.
 I am continuously learning, improving and building real-world data projects to sharpen my skills and deliver value.
 
+
 TOOLS AND TECHNOLOGIES:
 
 . Excel - Data cleaning , analysis, pivot tables, dashboards
@@ -45,9 +46,8 @@ LET'S CONNECT:
 
 ..Thank you for Visiting my GitHub-feel free to explore my project and reach out!..
 
-.Email:-lhadex35@gmail.com
-
-
+.📨Email:-(ademolafolashade25@gmail.com)
+.🔗LinkedIn:-(https://www.linkedin.com/in/ademola-folashade-32a6bb389)
 
 
 
